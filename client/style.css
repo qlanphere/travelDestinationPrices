@@ -1,0 +1,28 @@
+
+
+.header {
+    text-align: center;
+    padding-bottom: 50px;
+    background: rgb(202, 224, 245)
+}
+
+form {
+    text-align: center;
+}
+
+img {
+    align-items: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+  }
+
+#price {
+    text-align: center;
+    
+}

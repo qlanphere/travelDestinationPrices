@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "supertest": "^6.1.6"
+  },
+  "devDependencies": {
+    "jest": "^27.1.0"
+  },
+  "name": "travelprices",
+  "version": "1.0.0",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node program.js",
+    "dev": "nodemon program.js",
+    "test": "jest --silent --watchAll",
+    "coverage": "jest --coverage --silent"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
